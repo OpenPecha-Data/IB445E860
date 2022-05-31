@@ -1,0 +1,73 @@
+id: IB445E860
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T06:58:08.991976'
+last_modified: '2022-05-31T06:58:08.991981'
+parser: null
+source_metadata:
+  title: Rigdzin Gödem
+  language: fr
+  description: 'Texts by and about Rigdzin Gödem Ngödrup Gyaltsen (rig ''dzin rgod
+    ldem dngos grub rgyal mtshan, 1337–1408), famed discoverer of the so-called Northern
+    Treasures (byang gter) revelation:'
+  volume:
+    f994C:
+      title: The Powerful Prayer of Aspiration from the Tantra of the Great Perfection
+        that Reveals the All-Penetrating Wisdom Mind of Samantabhadra (Kunzang Mönlam)
+      base_file: f994C.txt
+      order: 1
+      parent: Aspiration Prayers
+    f0FA2:
+      title: 'Le''u Dünma—Chapter 1: The Prayer to the Three Kāya Guru'
+      base_file: f0FA2.txt
+      order: 2
+      parent: Le'u Dünma
+    fE544:
+      title: 'Le''u Dünma—Chapter 2: The Prayer Requested by King Tri Songdetsen'
+      base_file: fE544.txt
+      order: 3
+      parent: Le'u Dünma
+    f5EAD:
+      title: 'Le''u Dünma—Chapter 3: The Prayer Requested by Khandro Yeshe Tsogyal'
+      base_file: f5EAD.txt
+      order: 4
+      parent: Le'u Dünma
+    f1391:
+      title: 'Le''u Dünma—Chapter 4: The Prayer Requested by Namkhe Nyingpo'
+      base_file: f1391.txt
+      order: 5
+      parent: Le'u Dünma
+    f2068:
+      title: 'Le''u Dünma—Chapter 5: The Prayer Requested by Nanam Dorje Dudjom'
+      base_file: f2068.txt
+      order: 6
+      parent: Le'u Dünma
+    f1BFF:
+      title: 'Le''u Dünma—Chapter 6: The Prayer Requested by Prince Mutri Tsenpo'
+      base_file: f1BFF.txt
+      order: 7
+      parent: Le'u Dünma
+    f2257:
+      title: Le'u Dünma—Chapter 7. The Prayer to Guru Rinpoche that Spontaneously
+        Fulfills All Wishes (Sampa Lhundrupma)
+      base_file: f2257.txt
+      order: 8
+      parent: Le'u Dünma
+    fCD4A:
+      title: The Means for Accomplishment called the Blazing Wheel
+      base_file: fCD4A.txt
+      order: 9
+      parent: Practices
+    f0F3D:
+      title: 'The Wish-Fulfilling Jewel: A Daily Sādhana of the Noble Avalokiteśvara'
+      base_file: f0F3D.txt
+      order: 10
+      parent: Sādhanas
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
